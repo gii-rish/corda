@@ -19,10 +19,3 @@ See https://docs.corda.net/getting-set-up.html.
 ## Running the nodes
 
 See https://docs.corda.net/tutorial-cordapp.html#running-the-example-cordapp.
-
-## Interacting with the nodes
-
-Temp file have a list of commands along with what they are supposed to do
-
-##Demo Video
-Go to https://drive.google.com/drive/folders/1FVJba3vGFzBYWx_0UAxzDsXB7mMgitag?usp=sharing# corda
